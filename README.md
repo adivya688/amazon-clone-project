@@ -1,6 +1,9 @@
 Bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-###  Demo [Amazon Clone](challenge-6bbca.web.app)
+
+###  Demo [Amazon Clone](https://challenge-6bbca.web.app)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
